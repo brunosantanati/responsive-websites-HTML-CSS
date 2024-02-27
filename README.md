@@ -12,3 +12,5 @@
 [Section 3 - Challenge 2](https://codepen.io/jonasschmedtmann/pen/oNBJQOr/bc1ffc43d2c2d6dfb311d99f974ec991)  
 [Section 3 - Challenge 3](https://codepen.io/jonasschmedtmann/pen/dyNwwGP/7a64f0845fd4f6439b63203371edbcb1)  
 [Section 4 - Challenge 1](https://codepen.io/jonasschmedtmann/pen/eYgbXrV/1a12771af64312342aa5a5f45bd2347c)  
+
+![Flexbox Cheat Sheet](img/flexbox.png)
