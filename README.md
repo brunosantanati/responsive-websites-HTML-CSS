@@ -1,5 +1,6 @@
 ## Links
 
+[Original source code](https://github.com/jonasschmedtmann/html-css-course)  
 [Emoji](https://getemoji.com/)  
 [CSS Tricks](https://css-tricks.com/)  
 [MDN CSS text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)  
