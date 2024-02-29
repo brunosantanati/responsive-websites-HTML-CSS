@@ -14,4 +14,6 @@
 [Section 4 - Challenge 1](https://codepen.io/jonasschmedtmann/pen/eYgbXrV/1a12771af64312342aa5a5f45bd2347c)  
 [Section 4 - Challenge 2](https://codepen.io/jonasschmedtmann/pen/MWJZZQL/c8e97f50f726b8e57ff58068647cde00)  
 
-![Flexbox Cheat Sheet](img/flexbox.png)
+![Flexbox Cheat Sheet](img/flexbox.png)  
+
+![Grid Cheat Sheet](img/grid.png)  
