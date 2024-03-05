@@ -1,6 +1,10 @@
 ## Links
 
 [Original source code](https://github.com/jonasschmedtmann/html-css-course)  
+[Course Resources](https://codingheroes.io/resources/)
+[Open Color](https://yeun.github.io/open-color/)    
+[Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
+[Coolors - Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)  
 [Emoji](https://getemoji.com/)  
 [CSS Tricks](https://css-tricks.com/)  
 [MDN CSS text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)  
