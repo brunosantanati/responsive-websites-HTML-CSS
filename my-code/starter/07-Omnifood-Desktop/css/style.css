@@ -63,6 +63,11 @@ Medium: 11px
 }
 
 html {
+  /* Comments about rem */
+  /* 1 rem = 16px (default font-size in the body) - 50rem = 800px */
+  /* 1 rem = 10px (changed fon-size in the body to 10px) - 50rem = 500px */
+  /* 1 rem = 20px (changed fon-size in the body to 10px) - 50rem = 1000px */
+
   /*font-size: 10px;*/
   /* 10px / 16 = 0.625 = 62.5% */
   /* Percentage of user's browser font-size setting */
@@ -76,16 +81,13 @@ body {
   color: #555;
 }
 
-.test {
-  background-color: red;
-  /*width: 1000px;*/
-  /*max-width: 1000px;*/
+.hero {
+  max-width: 130rem;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
 
-  max-width: 50rem;
-  padding: 4rem;
-  font-size: 2rem;
-  color: #fff;
-  /* 1 rem = 16px (default font-size in the body) - 50rem = 800px */
-  /* 1 rem = 10px (changed fon-size in the body to 10px) - 50rem = 500px */
-  /* 1 rem = 20px (changed fon-size in the body to 10px) - 50rem = 1000px */
+.hero-img {
+  width: 100%;
 }
