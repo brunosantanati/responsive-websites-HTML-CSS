@@ -6,6 +6,7 @@
 [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
 [Coolors - Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)  
 [Heroicons](https://heroicons.com/)  
+[ionicons](https://ionic.io/ionicons)  
 [Emoji](https://getemoji.com/)  
 [CSS Tricks](https://css-tricks.com/)  
 [MDN CSS text-align](https://developer.mozilla.org/en-US/docs/Web/CSS/text-align)  
