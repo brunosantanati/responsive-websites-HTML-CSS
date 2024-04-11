@@ -125,7 +125,7 @@ body {
 }
 
 .heading-primary,
-.heading-secundary,
+.heading-secondary,
 .heading-tertiary {
   font-weight: 700;
   color: #333;
@@ -140,7 +140,7 @@ body {
   margin-bottom: 3.2rem;
 }
 
-.heading-secundary {
+.heading-secondary {
   font-size: 4.4rem;
   line-height: 1.2;
   margin-bottom: 9.6rem;
