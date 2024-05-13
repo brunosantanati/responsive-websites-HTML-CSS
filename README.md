@@ -3,6 +3,7 @@
 [Original source code](https://github.com/jonasschmedtmann/html-css-course)  
 [Omnifood website](https://omnifood.dev/)  
 [Course Resources](https://codingheroes.io/resources/)  
+[Check features compatibility with browsers](https://caniuse.com/)  
 [Open Color](https://yeun.github.io/open-color/)    
 [Paletton](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)  
 [Coolors - Color Contrast Checker](https://coolors.co/contrast-checker/112a46-acc8e5)  
